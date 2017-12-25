@@ -1,6 +1,30 @@
 body{
   background-color: black;
 }
-h1{
+h1, h2{
   color: white;
+}
+.discover{
+  font-family: Verdana, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+}
+a{
+  color: aquamarine;
+  font-size: 16px;
+}
+.personal{
+  font-family: Verdana, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+p{
+  font-family: Verdana, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+.copyright{
+  text-align: right;
+  color: gray;
 }
